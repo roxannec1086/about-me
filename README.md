@@ -20,6 +20,7 @@ We learn new types of code all the time. I participate in lots of school activit
   * J.cole 
 
 **My favorite classes in order**
+
 1. English
 2. U.S. history
 3. Software Engineering 
